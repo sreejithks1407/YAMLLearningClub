@@ -1,0 +1,86 @@
+---
+ipl_2024: "TATA IPL 2024"
+start date: 2024-03-22
+end_date: 2024-05-26
+champions: "Kolkata Kight Riders"
+runners_up: "Sunrisers Hyderabad"
+
+participated_teams:
+  - team_1: "Chennai Super Kings"
+      captain: "Ruturaj Gaikwad"
+      home_stadium: "M A Chidambaram stadium, Chepauk"
+      trophies: 5
+
+  - team_2: "Mumbai Indians"
+      captain: "Hardik Pandya"
+      home_stadium: "Wankhede Stadium"
+      trophies: 5
+
+  - team_3: "Kolkata Knight Riders"
+      captain: "Sreyas Iyer"
+      home_stadium: "Eden gardens"
+      trophies: 3
+
+  - team_4: "Sunrisers Hyderabad"
+      captain: "Pat Cummins"
+      home_stadium: "Rajiv Gandhi international stadium, Uppal"
+      trophies: 1
+
+  - team_5: "Royal Chellengers Bengaluru"
+      captain: "Faf Duplesis"
+      home_stadium: "M Chinnaswamy stadium"
+      trophies: 0
+
+  - team_6: "Rajasthan Royals"
+      captain: "Sanju Samson"
+      home_stadium: "Sawai Mansigh stadium, jaipur"
+      trophies: 1
+
+  - team_7: "Punjab Kings"
+      captain: "Sam Curran"
+      home_stadium: "Mullanpur stadium"
+      trophies: 0
+
+  - team_8: "Gujarat Titans"
+      captain: "Shubman Gill"
+      home_stadium: "Narendra modi stadium Ahmedabad"
+      trophies: 1
+
+  - team_9: "Lucknow Super Giants"
+      captain: "KL Rahul"
+      home_stadium: "Ekana cricket stadium, Lucknow"
+      trophies: 0
+
+  - team_10: "Delhi Capitals"
+      captain: "Rishabh Pant"
+      home_stadium: "Arun Jaitley stadium, Delhi"
+      trophies: 0
+
+Final result: |
+
+  "2024 IPL final was held in Chennai on 26th of May in M A Chidambaram stadium, Chepauk.
+  Sunrisers hyderabad won the toss and decided to bat first. Kolkata bowling attack lead
+  by Australian international Mitchel stark restricted Sunrisers to a low total which was
+  then chased by Kolkata within 10 overs. Through this win Kolkata added one more trophy
+  to their collection there by having a total of 3 trophies in total, just 2 behind the mighty
+  Chennai Super Kings and Mumbai Indians."
+
+points_table: >
+  "1. KKR"
+  "2. SRH"
+  "3. RR"
+  "4. RCB"
+  "5. CSK"
+  "6. DC"
+  "7. LSG"
+  "8. GT"
+  "9. PBKS"
+  "10. MI"
+
+...
+
+  
+
+  
+      
+
